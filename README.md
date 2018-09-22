@@ -4,4 +4,6 @@ Taller: TypeScript desde cero
 
 Por:  Carlos Pimentel
 
+---
+
 **Dev Bga 2018**
